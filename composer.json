@@ -1,0 +1,22 @@
+{
+    "name": "luksurious/statemachine-sample",
+    "description": "...",
+    "minimum-stability": "dev",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Lukas Brückner",
+            "email": "me@luksurious.me"
+        }
+    ],
+    "require": {
+        "metabor/statemachine": "1.1.x-dev",
+        "graphp/graphviz": "v0.2.1",
+        "symfony/expression-language": "3.0.x-dev"
+    },
+    "autoload": {
+        "psr-0": {
+            "App\\": ""
+        }
+    }
+}
